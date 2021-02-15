@@ -1,0 +1,1 @@
+factoriel = int(input())
